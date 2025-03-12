@@ -75,6 +75,6 @@ int main(){
     fgets(userName, sizeof(userName), stdin);
     printf("Game Rule: You Only allow to Guess 5 time.\n");
     printf("Guess in The Range from 1 to 20\n");
-    printf("=====================<><><><>===============================>\n");
+    printf("=====================<><>G A M E<><>===============================>\n");
     checkUserInput();
 }
